@@ -6,5 +6,5 @@
 
 ### RN
 - [X] A transacão pode ser do tipo crédito (somar) ou débito (subtrair);
-- [ ] Deve ser possível identificar o usuário entre as requisicões;
-- [ ] O usuário só pode visualizar transacões que ele criou.
+- [X] Deve ser possível identificar o usuário entre as requisicões;
+- [X] O usuário só pode visualizar transacões que ele criou.
